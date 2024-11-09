@@ -1,0 +1,9 @@
+RC = 7
+RB =                  7
+RO =                      RA
+RB =                     RA + RB
+JC = 7
+RA = RA            + RB
+RB = RA         - RB
+RB =  RA   -     RB
+           J = 2
